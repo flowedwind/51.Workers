@@ -32,3 +32,5 @@ for every people work with his both hands, then, for every workers
 假如你累了，那也请你在家里放下疲惫的心，感受这来之不易的宁静。感受我们这份渺小的呼吁：
 
 我们拒绝在拥有如此意义的五一国际劳动节里，加班工作。
+# 联动
+[996.ICU](https://github.com/996icu/996.ICU)
