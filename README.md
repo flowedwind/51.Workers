@@ -3,13 +3,13 @@
 
 for every people work with his both hands, then, for every workers
 
-# 51.Workers的用途  waht is 51.Workers
+# 51.Workers的用途      --  what is 51.Workers
 
 2019年的五一国际劳动节即将到来，平日的你或许996的工作，或许白加黑的加班。但是在这个即将到来的属于每一个劳动者的节日里。我们希望通过这个页面，呼吁每一个劳动者能够真正珍视自己的价值，在这个劳动节拒绝加班，过属于自己的节日。
 
 在当前的时代，我们无法做到更多，但这件事也许是我们最可能实现的。
 
-# 五一劳动节的历史  history of 5.1 
+# 五一劳动节的历史       --  history of 5.1 
 
 十八世纪末，美国和欧洲等许多国家，逐步由资本主义发展到帝国主义阶段，资本家不断采取增加劳动时间和劳动强度的办法来残酷地剥削工人
 
@@ -19,7 +19,7 @@ for every people work with his both hands, then, for every workers
 
 1889年7月14日，由各国马克思主义者召集的社会主义者代表大会，在法国巴黎隆重开幕。大会上，会代表一致同意：把5月1日定为每一个无产阶级劳动者的共同节日
 
-# 我能为51.Workers做什么  what can I do
+# 我能为51.Workers做什么      --  what can I do
 
 你不需要为51.workers做任何事，甚至不需要star。
 
